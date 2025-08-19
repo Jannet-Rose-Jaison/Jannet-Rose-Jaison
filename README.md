@@ -63,4 +63,21 @@ The website consists of the following sections/pages with a **navigation menu**:
 ---
 
 ## 📂 Project Structure
+personal-website/
+├── index.html
+├── profile.html
+├── cv.html
+├── education.html
+├── projects.html
+├── contact.html
+├── css/
+│   └── style.css
+├── js/
+│   ├── main.js
+│   ├── weather.js
+│   └── rss.js
+├── images/
+│   └── (profile + project screenshots)
+└── README.md
+
 
