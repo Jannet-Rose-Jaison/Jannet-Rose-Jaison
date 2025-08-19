@@ -75,9 +75,8 @@ personal-website/
 ├── js/
 │   ├── main.js
 │   ├── weather.js
-│   └── rss.js
-├── images/
-│   └── (profile + project screenshots)
+│   ├── rss.js
+|   └── gallery.js
 └── README.md
 
 
